@@ -1,2 +1,2 @@
 # Svietimas
-Duomenis apie mokyklas, darželius, lopšelius
+Duomenys apie mokyklas, darželius, lopšelius
